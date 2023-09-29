@@ -1,0 +1,21 @@
+leftnav:
+- identifier: d32b684b-ed06-e8e6-5415-2f5dcf819873
+  name: Introduction
+  pageRef: /pages/introduction
+  weight: 10
+- identifier: 62422d30-fe31-7d7f-5548-73ea79c81096
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: a781d5ac-598b-c606-3ba6-ac8138e446cf
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 30
+- identifier: 03f3a033-eec6-8163-6dbc-ff50345fb002
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 2e9a8aff-96f8-e559-11ed-fb8887012a8e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
